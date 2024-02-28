@@ -1,0 +1,7 @@
+{
+    "nombre": "David Lopez",
+    "edad": 27,
+    "carrera": "Coding",
+    "semestre": 1,
+    "gustos" : ["Karate","Comer","Leer", "Viajar"]
+}
