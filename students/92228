@@ -1,0 +1,7 @@
+{
+    "nombre": "Diego Guzmán",
+    "edad": 37,
+    "carrera": "Coding",
+    "semestre": 1,
+    "gustos" : ["Futbol","Cine", "Crossfit", "Viajar"]
+}
