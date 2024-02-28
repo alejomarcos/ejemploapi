@@ -1,0 +1,7 @@
+{
+    "nombre": "Duvan Hernandez",
+    "edad": 26,
+    "carrera": "Coding",
+    "semestre": 1,
+    "gustos" : ["Futbol","Comer", "UFC", "Viajar"]
+}
