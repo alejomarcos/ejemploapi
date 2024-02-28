@@ -1,0 +1,7 @@
+{
+  "nombre": "Juan David Suaza",
+  "edad": 28,
+  "carrera": "Ingerniero de Sistemas",
+  "semestre": 10,
+  "gustos": ["Genshin Impact", "React", "Bicicleta"]
+}
