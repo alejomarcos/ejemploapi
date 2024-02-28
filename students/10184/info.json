@@ -1,0 +1,7 @@
+{
+    "nombre": "Román Jácome",
+    "edad": 33,
+    "carrera": "Coding",
+    "semestre": 1,
+    "gustos" : ["Voleyball","Comer++", "Ping Pong", "Viajar San Andres"]
+}
