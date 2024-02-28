@@ -1,0 +1,7 @@
+{
+    "nombre": "Alejandro Martinez",
+    "edad": 39,
+    "carrera": "Coding",
+    "semestre": 1,
+    "gustos" : ["Viajar", "Gym"]
+}
